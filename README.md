@@ -22,10 +22,11 @@ Our group explores the benefits of visualizing Fast Healthcare Interoperability 
 - Mind Map for our Senario
 
 
- back-end:
-  - Boxplot (User Input: NAME of the disease) (Done by Wesley)
-  - Bar Chart (Done by Deependra)
-  - Line GRAPH (Done by Deependra)
+ back-end: 
+  - FastAPI routes, templating and data insertion (Done by Aditya Mujkhija)
+    - Boxplot (User Input: NAME of the disease) (Done by Wesley)
+    - Bar Chart (Done by Deependra)
+    - Line GRAPH (Done by Deependra)
 
  front-end(the code is in another branch):
   - User Interface
