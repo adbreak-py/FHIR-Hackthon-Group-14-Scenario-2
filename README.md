@@ -23,7 +23,7 @@ Our group explores the benefits of visualizing Fast Healthcare Interoperability 
 
 
  back-end: 
-  - FastAPI routes, templating and data insertion (Done by Aditya Mujkhija)
+  - FastAPI routes and data insertion (Done by Aditya Mujkhija)
     - Boxplot (User Input: NAME of the disease) (Done by Wesley)
     - Bar Chart (Done by Deependra)
     - Line GRAPH (Done by Deependra)

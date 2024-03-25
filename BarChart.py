@@ -67,12 +67,9 @@ def plot_age_distribution_by_gender(patient_info, condition):
     # Show plot
     plt.show()
 
-
-condition = "Asthma"
-Datasets_size = 3  # 1 represents 20 patients ()
-patient_info = fetch_conditions_and_patients(condition, Datasets_size)
-for info in patient_info:
-    print(info)
-
-plot_age_distribution_by_gender(patient_info, condition)
-
+def run():
+    condition = "Asthma"
+    Datasets_size = 3  # 1 represents 20 patients ()
+    patient_info = fetch_conditions_and_patients(condition, Datasets_size)
+    for info in patient_info:
+        print(info)
